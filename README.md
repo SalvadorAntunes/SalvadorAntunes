@@ -54,8 +54,8 @@ A Java command-line application designed to help teachers manage students, subje
 
 ## 🎓 Certifications
 
-- Google AI Essentials
-- Career Essentials in Generative AI (Microsoft & LinkedIn)
+- [Google AI Essentials](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fc9b85ed4-5a7e-40a7-b54f-6108fac54eef%2Fpublic_url&urlhash=WZW0&mt=nx7ygZ2XnR2WEV_IMns99rqwIw_cnKFG0T93QTO3nFXTvDD2p9bSDaaFxtFaKINi5g9DIkhJkxeVfBBtHTNsLUemezUS&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bq2np9CvjSS2J6L9txvTZ3Q%3D%3D)
+- [Career Essentials in Generative AI (Microsoft & LinkedIn)](https://www.linkedin.com/learning/certificates/c88a4005c4e2d7a7b81165ea8343f370a46b09a5a9ec32a91beae1333af32900/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bq2np9CvjSS2J6L9txvTZ3Q%3D%3D)
 
 ## 📈 Current Goals
 
