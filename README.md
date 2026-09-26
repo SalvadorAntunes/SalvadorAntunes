@@ -1,6 +1,6 @@
 # Hi there, I'm Salvador 👋
 
-🎓 Computer Science and Engineering student at **NOVA School of Science and Technology, Portugal**.
+🎓 Final-Year Computer Science and Engineering student at **NOVA School of Science and Technology, Portugal**.
 
 I'm interested in **software engineering, AI, and web development**, and I enjoy building practical projects to explore new technologies and turn ideas into working applications.
 
@@ -50,7 +50,7 @@ I'm interested in **software engineering, AI, and web development**, and I enjoy
 
 ## 📌 Featured Projects
 
-### SoftLanding — SKYHACK 2026 Finalist
+### SoftLanding — SKYHACK Finalist
 
 AI-powered web application designed to support people experiencing anxiety while awaiting medical test results.
 
